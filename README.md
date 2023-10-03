@@ -1,5 +1,7 @@
 # Store
 
+The objective of this code it is to recreate the PSN Store from Playstation using Angular and Typescript! Please enjoy.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
